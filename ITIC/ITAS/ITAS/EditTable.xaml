@@ -1,0 +1,13 @@
+﻿<Window x:Class="ITAS.EditTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EditTable" Height="466.918" Width="744.361">
+    <Grid>
+        <DataGrid x:Name="DataGridShowTable" HorizontalAlignment="Left" Margin="279,10,0,0" VerticalAlignment="Top" Height="334" Width="441"/>
+        <ListBox x:Name="TablesOfDB" HorizontalAlignment="Left" Height="274" Margin="10,10,0,0" VerticalAlignment="Top" Width="223"/>
+        <Button x:Name="ShowTable" Content="Show Table" HorizontalAlignment="Left" Margin="133,304,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="ShowTable_Click"/>
+        <Button x:Name="ButtonResresh" Content="Refresh" HorizontalAlignment="Left" Margin="10,304,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="ButtonResresh_Click"/>
+        <Button x:Name="ButtonSaveChanges" Content="Save changes" HorizontalAlignment="Left" Margin="520,364,0,0" VerticalAlignment="Top" Width="200" Height="46" Click="ButtonSaveChanges_Click"/>
+
+    </Grid>
+</Window>

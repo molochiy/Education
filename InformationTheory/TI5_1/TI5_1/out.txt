@@ -1,0 +1,7 @@
+Coded X with code IK 1101110110111011101101
+Y1 coded good
+Y2 coded bad. It must be coded 1001100110011001
+Coded X with code PrN 1101110110111011101101
+Y1 coded bad. It must be coded 11101111110111
+Y2 coded bad. It must be coded 10101110101000
+Press any key to continue . . . 

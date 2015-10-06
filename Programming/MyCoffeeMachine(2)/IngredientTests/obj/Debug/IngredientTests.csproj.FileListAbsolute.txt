@@ -1,0 +1,9 @@
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\bin\Debug\IngredientTests.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\bin\Debug\IngredientTests.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\bin\Debug\MyCoffeeMachine(2).exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\bin\Debug\nunit.framework.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\bin\Debug\MyCoffeeMachine(2).pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\bin\Debug\nunit.framework.xml
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\obj\Debug\IngredientTests.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\obj\Debug\IngredientTests.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\IngredientTests\obj\Debug\IngredientTests.pdb

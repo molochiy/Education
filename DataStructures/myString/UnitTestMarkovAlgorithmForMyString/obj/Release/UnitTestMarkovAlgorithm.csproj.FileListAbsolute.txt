@@ -1,0 +1,7 @@
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\bin\Release\UnitTestMarkovAlgorithmForMyString.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\bin\Release\UnitTestMarkovAlgorithmForMyString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\bin\Release\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\bin\Release\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\obj\Release\UnitTestMarkovAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\obj\Release\UnitTestMarkovAlgorithmForMyString.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestMarkovAlgorithmForMyString\obj\Release\UnitTestMarkovAlgorithmForMyString.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorkWithStacks", "stacks\stacks.vcxproj", "{69F0D5BC-AA9B-4E1B-A72C-74084611E54B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestsForWorkWithStacks", "UnitTestsForStackOnList\UnitTestsForStackOnList.vcxproj", "{F72BA261-0B70-4538-999E-C3D228F4EBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F0D5BC-AA9B-4E1B-A72C-74084611E54B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69F0D5BC-AA9B-4E1B-A72C-74084611E54B}.Debug|Win32.Build.0 = Debug|Win32
+		{69F0D5BC-AA9B-4E1B-A72C-74084611E54B}.Release|Win32.ActiveCfg = Release|Win32
+		{69F0D5BC-AA9B-4E1B-A72C-74084611E54B}.Release|Win32.Build.0 = Release|Win32
+		{F72BA261-0B70-4538-999E-C3D228F4EBC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F72BA261-0B70-4538-999E-C3D228F4EBC5}.Debug|Win32.Build.0 = Debug|Win32
+		{F72BA261-0B70-4538-999E-C3D228F4EBC5}.Release|Win32.ActiveCfg = Release|Win32
+		{F72BA261-0B70-4538-999E-C3D228F4EBC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\bin\Debug\MachineTests.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\bin\Debug\MachineTests.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\bin\Debug\nunit.framework.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\bin\Debug\nunit.framework.xml
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\obj\Debug\MachineTests.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\obj\Debug\MachineTests.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\obj\Debug\MachineTests.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\bin\Debug\MyCoffeeMachine(2).exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\MyCoffeeMachine(2)\MachineTests\bin\Debug\MyCoffeeMachine(2).pdb

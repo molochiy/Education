@@ -1,0 +1,15 @@
+﻿<Window x:Class="ITAS.Slicer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Slicer" Height="475.715" Width="632.707">
+    <Grid>
+        <ListBox x:Name="TablesOfDB" HorizontalAlignment="Left" Height="170" Margin="10,10,0,0" VerticalAlignment="Top" Width="223"/>
+        <Button x:Name="ButtonSelectTable" Content="Select table" HorizontalAlignment="Left" Margin="10,200,0,0" VerticalAlignment="Top" Width="223" Height="26" Click="ButtonSelectTable_Click"/>
+        <ListBox x:Name="ListBoxFieldsOfTable" HorizontalAlignment="Left" Height="170" Margin="10,247,0,0" VerticalAlignment="Top" Width="223"/>
+        <DataGrid x:Name="DataGridSlicer" HorizontalAlignment="Left" Margin="272,10,0,0" VerticalAlignment="Top" Height="314" Width="343"/>
+        <Button x:Name="ButtonSelectContent" Content="" HorizontalAlignment="Left" Margin="272,342,0,0" VerticalAlignment="Top" Width="100" Height="75" Click="ButtonSelectContent_Click"/>
+        <Button x:Name="ButtonShowSlicer" Content="Show slicer" HorizontalAlignment="Left" Margin="394,342,0,0" VerticalAlignment="Top" Width="100" Height="75" Click="ButtonShowSlicer_Click"/>
+        <Button x:Name="ButtonSaveAsTable" Content="Save as table" HorizontalAlignment="Left" Margin="515,342,0,0" VerticalAlignment="Top" Width="100" Height="75" Click="ButtonSaveAsTable_Click"/>
+
+    </Grid>
+</Window>

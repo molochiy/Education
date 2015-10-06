@@ -1,0 +1,5 @@
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\bin\Release\myString.exe.config
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\bin\Release\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\bin\Release\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\obj\Release\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\obj\Release\myString.pdb

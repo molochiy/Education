@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Task3.MainWindow"
+        Title="MainWindow" Height="471.053" Width="802.632">
+    <Grid>
+        <DataGrid x:Name="DataGridAnimals" HorizontalAlignment="Left" Margin="408,30,0,0" VerticalAlignment="Top" Height="172" Width="358" ColumnWidth="85"/>
+        <Label Content="Ім'я" HorizontalAlignment="Left" Margin="28,26,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.468,0.492"/>
+        <Label Content="Порода" HorizontalAlignment="Left" Margin="28,57,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.487,0.487"/>
+        <Label Content="Стать" HorizontalAlignment="Left" Margin="28,88,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="ComboBoxSex" HorizontalAlignment="Left" Margin="86,92,0,0" VerticalAlignment="Top" Width="120" Height="22">
+            <ComboBoxItem Content="Чоловік" Height="22" Width="100"/>
+            <ComboBoxItem Content="Жінка" Height="22" Width="100"/>
+        </ComboBox>
+        <TextBox x:Name="TextBoxName" HorizontalAlignment="Left" Height="23" Margin="86,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxBreed" HorizontalAlignment="Left" Height="23" Margin="86,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonDisplay" Content="Додати" HorizontalAlignment="Left" Margin="244,30,0,0" VerticalAlignment="Top" Width="75" Height="84" Click="Button_Click_1"/>
+        <Button x:Name="buttonSave" Content="Зберегти" HorizontalAlignment="Left" Margin="244,134,0,0" VerticalAlignment="Top" Width="75" Height="68" Click="buttonSave_Click"/>
+        <RadioButton x:Name="RadioButtonFindByName" Content="Пошук за іменем" HorizontalAlignment="Left" Margin="67,301,0,0" VerticalAlignment="Top" Checked="RadioButtonFindByName_Checked"/>
+        <RadioButton x:Name="RadioButtonFindByGreed" Content="Пошук за породою" HorizontalAlignment="Left" Margin="196,301,0,0" VerticalAlignment="Top" Checked="RadioButtonFindByGreed_Checked"/>
+        <RadioButton x:Name="RadioButtonFindBySex" Content="Пошук за статтю" HorizontalAlignment="Left" Margin="341,301,0,0" VerticalAlignment="Top" Checked="RadioButtonFindBySex_Checked"/>
+        <TextBox x:Name="TextBoxNameFind" HorizontalAlignment="Left" Height="23" Margin="67,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxBreedFind" HorizontalAlignment="Left" Height="23" Margin="201,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="ComboBoxSexFind" HorizontalAlignment="Left" Margin="341,323,0,0" VerticalAlignment="Top" Width="120" Height="22">
+            <ComboBoxItem Content="Чоловік" Height="22" Width="100"/>
+            <ComboBoxItem Content="Жінка" Height="22" Width="100"/>
+        </ComboBox>
+        <Button x:Name="ButtonFind" Content="Знайти" HorizontalAlignment="Left" Margin="67,364,0,0" VerticalAlignment="Top" Width="394" Click="ButtonFind_Click"/>
+
+    </Grid>
+</Window>

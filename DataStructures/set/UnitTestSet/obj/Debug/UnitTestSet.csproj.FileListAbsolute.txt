@@ -1,0 +1,7 @@
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\bin\Debug\UnitTestSet.dll
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\bin\Debug\UnitTestSet.pdb
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\bin\Debug\set.exe
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\bin\Debug\set.pdb
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\obj\Debug\UnitTestSet.csprojResolveAssemblyReference.cache
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\obj\Debug\UnitTestSet.dll
+c:\Users\Mykola\documents\visual studio 2012\Projects\set\UnitTestSet\obj\Debug\UnitTestSet.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Release\UnitTestsMyString.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Release\UnitTestsMyString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Release\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Release\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\obj\Release\UnitTestsMyString.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\obj\Release\UnitTestsMyString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\obj\Release\UnitTestsMyString.csprojResolveAssemblyReference.cache

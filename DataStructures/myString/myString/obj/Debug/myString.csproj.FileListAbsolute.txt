@@ -1,0 +1,12 @@
+c:\users\molochiy mykola\documents\visual studio 2012\Projects\myString\myString\bin\Debug\myString.exe.config
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\myString\obj\Debug\myString.csprojResolveAssemblyReference.cache
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\myString\bin\Debug\myString.exe
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\myString\bin\Debug\myString.pdb
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\myString\obj\Debug\myString.exe
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\myString\obj\Debug\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\bin\Debug\myString.exe.config
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\obj\Debug\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\obj\Debug\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\bin\Debug\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\bin\Debug\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\myString\obj\Debug\myString.csprojResolveAssemblyReference.cache

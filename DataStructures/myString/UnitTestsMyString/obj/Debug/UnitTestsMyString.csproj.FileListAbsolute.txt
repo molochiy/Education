@@ -1,0 +1,14 @@
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\UnitTestsMyString.dll
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\UnitTestsMyString.pdb
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\myString.exe
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\myString.pdb
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\obj\Debug\UnitTestsMyString.csprojResolveAssemblyReference.cache
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\obj\Debug\UnitTestsMyString.dll
+C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\myString\UnitTestsMyString\obj\Debug\UnitTestsMyString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\UnitTestsMyString.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\UnitTestsMyString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\myString.exe
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\bin\Debug\myString.pdb
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\obj\Debug\UnitTestsMyString.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\obj\Debug\UnitTestsMyString.dll
+C:\Users\Mykola\Documents\Visual Studio 2012\Projects\myString\UnitTestsMyString\obj\Debug\UnitTestsMyString.pdb

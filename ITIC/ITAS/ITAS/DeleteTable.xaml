@@ -1,0 +1,11 @@
+﻿<Window x:Class="ITAS.DeleteTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DeleteTable" Height="254.887" Width="454.511">
+    <Grid>
+        <ListBox x:Name="ListBoxTables" HorizontalAlignment="Left" Height="202" Margin="10,10,0,0" VerticalAlignment="Top" Width="232"/>
+        <Button x:Name="ButtonRefreshTable" Content="Refresh" HorizontalAlignment="Left" Margin="272,22,0,0" VerticalAlignment="Top" Width="150" Height="70" Click="ButtonRefreshTable_Click"/>
+        <Button x:Name="ButtonDeleteTable" Content="Delete" HorizontalAlignment="Left" Margin="272,127,0,0" VerticalAlignment="Top" Width="150" Height="70" Click="ButtonDeleteTable_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+1) 0101   Can not be coded.
+2) 0000   Can be coded
+3) 0101   Can not be coded.
+0 0 1 1 
+0 1 0 1 
+0 1 1 0 
+1 0 0 1 
+1 0 1 0 
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 

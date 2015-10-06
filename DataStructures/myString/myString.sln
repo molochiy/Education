@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myString", "myString\myString.csproj", "{B5E41921-D848-4A8F-9CA8-C49D12090B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsMyString", "UnitTestsMyString\UnitTestsMyString.csproj", "{03AD65D8-2E29-4F4E-B48F-370EFB759387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMarkovAlgorithm", "UnitTestMarkovAlgorithmForMyString\UnitTestMarkovAlgorithm.csproj", "{A0E193FF-3E18-4577-B71B-DA395C46E608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E41921-D848-4A8F-9CA8-C49D12090B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E41921-D848-4A8F-9CA8-C49D12090B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E41921-D848-4A8F-9CA8-C49D12090B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E41921-D848-4A8F-9CA8-C49D12090B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03AD65D8-2E29-4F4E-B48F-370EFB759387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AD65D8-2E29-4F4E-B48F-370EFB759387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AD65D8-2E29-4F4E-B48F-370EFB759387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AD65D8-2E29-4F4E-B48F-370EFB759387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E193FF-3E18-4577-B71B-DA395C46E608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E193FF-3E18-4577-B71B-DA395C46E608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E193FF-3E18-4577-B71B-DA395C46E608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E193FF-3E18-4577-B71B-DA395C46E608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

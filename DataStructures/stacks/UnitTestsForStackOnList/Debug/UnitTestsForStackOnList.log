@@ -1,0 +1,17 @@
+﻿Build started 14.09.2014 20:57:20.
+     1>Project "C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\stacks\UnitTestsForStackOnList\UnitTestsForStackOnList.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\include" /I"C:\Users\Molochiy Mykola\Documents\Visual Studio 2012\Projects\stacks\stacks" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\UnitTestsForWorkWithStacks.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt unittest1.cpp
+         unittest1.cpp
+     1>c:\users\molochiy mykola\documents\visual studio 2012\projects\stacks\stacks\calculateexpression.h(93): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\molochiy mykola\documents\visual studio 2012\projects\stacks\stacks\calculateexpression.h(142): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\molochiy mykola\documents\visual studio 2012\projects\stacks\stacks\calculateexpression.h(85): warning C4715: 'CalculateExpression::ProcessOp' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\stacks\Debug\UnitTestsForWorkWithStacks.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\stacks\Debug\UnitTestsForWorkWithStacks.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\stacks\Debug\UnitTestsForWorkWithStacks.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\unittest1.obj
+         UnitTestsForStackOnList.vcxproj -> C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\stacks\Debug\UnitTestsForWorkWithStacks.dll
+     1>Done Building Project "C:\Users\Molochiy Mykola\documents\visual studio 2012\Projects\stacks\UnitTestsForStackOnList\UnitTestsForStackOnList.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.31
